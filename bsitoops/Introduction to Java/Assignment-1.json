@@ -15,4 +15,154 @@
 		}		
 
 	]
-}]
+},
+{
+	"activityType":"quiz",
+	"title": " This assignment will help you to recollect the syntax and semantics while writing and executing a java program.",
+	"quizDescription" : [
+		{
+			"text" :"Use the below code for answering the following questions"
+		},
+		{
+			"code" : "HelloWorld.java"
+		}
+	],
+	"questions": [
+		{
+			"questionType" : "summarize",
+			"points" : "5",
+			"questionText": "Describe what happens if you omit <code>main</code> in the above code"
+		},
+		{
+			"questionType" : "summarize",
+			"points" : "5",
+			"questionText": "Describe what happens if you omit <code>String</code> in the above code"
+		},
+		{
+			"questionType" : "summarize",
+			"points" : "5",
+			"questionText": "Describe what happens if you omit <code>HelloWorld</code> in the above code"
+		},
+		{
+			"questionType" : "summarize",
+			"points" : "5",
+			"questionText": "Describe what happens if you omit <code>System.out</code> in the above code"
+		},
+		{
+			"questionType" : "summarize",
+			"points" : "5",
+			"questionText": "Describe what happens if you omit <code>println</code> in the above code"
+		}
+	]
+},
+{
+	"activityType":"quiz",
+	"title": " This assignment will help you to recollect the syntax and semantics while writing and executing a java program.",
+	"quizDescription" : [
+		{
+			"text" :"Use the below code for answering the following questions"
+		},
+		{
+			"code" : "HelloWorld.java"
+		}
+	],
+	"questions": [
+		{
+			"questionType" : "summarize",
+			"points" : "5",
+			"questionText": "Describe what happens if you omit <code>;</code> in the above code"
+		},
+		{
+			"questionType" : "summarize",
+			"points" : "5",
+			"questionText": "Describe what happens if you omit <code>the first \"</code> in the above code"
+		},
+		{
+			"questionType" : "summarize",
+			"points" : "5",
+			"questionText": "Describe what happens if you omit <code>the second \"</code> in the above code"
+		},
+		{
+			"questionType" : "summarize",
+			"points" : "5",
+			"questionText": "Describe what happens if you omit <code>the first {</code> in the above code"
+		},
+		{
+			"questionType" : "summarize",
+			"points" : "5",
+			"questionText": "Describe what happens if you omit <code>the second {</code> in the above code"
+		},
+		{
+			"questionType" : "summarize",
+			"points" : "5",
+			"questionText": "Describe what happens if you omit <code>the first }</code> in the above code"
+		},
+		{
+			"questionType" : "summarize",
+			"points" : "5",
+			"questionText": "Describe what happens if you omit <code>the second }</code> in the above code"
+		}
+	]
+},
+{
+	"activityType":"quiz",
+	"title": " This assignment will help you to recollect the syntax and semantics while writing and executing a java program.",
+	"quizDescription" : [
+		{
+			"text" :"Use the below code for answering the following questions"
+		},
+		{
+			"code" : "HelloWorld.java"
+		}
+	],
+	"questions": [
+		{
+			"questionType" : "summarize",
+			"points" : "5",
+			"questionText": "Describe what happens if you misspell <code>main</code> in the above code"
+		},
+		{
+			"questionType" : "summarize",
+			"points" : "5",
+			"questionText": "Describe what happens if you misspell <code>String</code> in the above code"
+		},
+		{
+			"questionType" : "summarize",
+			"points" : "5",
+			"questionText": "Describe what happens if you misspell <code>HelloWorld</code> in the above code"
+		},
+		{
+			"questionType" : "summarize",
+			"points" : "5",
+			"questionText": "Describe what happens if you misspell <code>System.out</code> in the above code"
+		},
+		{
+			"questionType" : "summarize",
+			"points" : "5",
+			"questionText": "Describe what happens if you misspell <code>println</code> in the above code"
+		},
+		{
+			"questionType" : "summarize",
+			"points" : "5",
+			"questionText": "Describe what happens if you misspell <code>the first }</code> in the above code"
+		},
+		{
+			"questionType" : "summarize",
+			"points" : "5",
+			"questionText": "Describe what happens if you misspell <code>the second }</code> in the above code"
+		}
+	]
+},
+{
+	"title": " This assignment will help you to recollect the syntax and semantics while writing and executing a java program.",
+	"activityType": "assignment",
+	"questions": [{
+			"questionType": "filesubmission",
+			"questionText": " I typed in the following program. It compiles fine, but when I execute it, I get the error java.lang.NoSuchMethodError: main. What am I doing wrong? ",
+			"code":"HelloWorldBuggyCode.java"
+			
+		}
+
+	]
+}
+]

@@ -10,5 +10,62 @@
 			"points":"5"
 		}
 	]
+},
+{
+	"title":"This assignment tests you on how to use different loops to iterate the operations.",
+	"activityType":"assignment",
+	"questions":
+	[
+		{
+			"questionType": "filesubmission",
+			"questionText": [
+				{
+					"text":"Given two numbers a and b, write a function that returns the gcd of those two numbers<br>gcd(4, 5) → 1<br>gcd(4, 20) → 4<br>gcd(10, 3) → 1<br>"
+				},
+				{
+					"attachment" : ["Assignment-2.zip"]
+				}
+			],
+			"points":"10"
+		}
+	]
+},
+{
+	"title":"This assignment tests you on how to use different loops to iterate the operations.",
+	"activityType":"assignment",
+	"questions":
+	[
+		{
+			"questionType": "filesubmission",
+			"questionText": [
+				{
+					"text":"Write a function iterPower which takes base and exponent as arguments and return the value after calculating base raised to the power of the exponent.<br>iterPower(2, 3) → 8<br>iterPower(-5, 5) → -3125<br>iterPower(1, 100) → 1<br>"
+				},
+				{
+					"attachment" : ["Assignment-3.zip"]
+				}
+			],
+			"points":"10"
+		}
+	]
+},
+{
+	"title":"This assignment tests you on how to use different loops to iterate the operations.",
+	"activityType":"assignment",
+	"questions":
+	[
+		{
+			"questionType": "filesubmission",
+			"questionText": [
+				{
+					"text":"Write a program to print the multiples of the given number n.<br>multiples(3) → [1, 3]<br>multiples(10) → [1, 2, 5, 10]<br>multiples(100) → [1, 2, 4, 5, 10, 20, 25, 50, 100]<br>"
+				},
+				{
+					"attachment" : ["Assignment-4.zip"]
+				}
+			],
+			"points":"10"
+		}
+	]
 }
 ]

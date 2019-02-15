@@ -15,4 +15,24 @@
 		}		
 
 	]
-}]
+},
+{
+	"title": "This assignment tests you to how to define create and use user-defined exceptions",
+	"activityType": "assignment",
+	"questions": [
+		{
+	"questionType": "filesubmission",
+	"questionText": [
+		{
+			"text":"Use the program which is developed in the List ADT (Abstract Data Types) unit and create the user-defined exceptions as follows<br>a) <b>subList(int, int) :</b>Returns a list containing elements, including startIndex and excluding endIndex. The first parameter indicates the startIndex and the second parameter indicates the endIndex.<br>b) <b>equals(int[]) :</b> Returns a boolean indicating whether the parameter int[] exactly matches with the given list or not<br>c) <b>ListEmptyException:</b>  This exception has to be thrown when there is no element to be removed from the list, Throw this exception and print message saying <b>List is empty</b>.<br>Check your program against test cases below as a zip file. Submit your solution(zip file) when all test cases are passed"
+				},
+				{
+					"attachment" : ["Assignment-2.zip"]
+				}
+			],
+			"points":"10"
+}
+
+	]
+}
+]

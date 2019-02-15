@@ -16,5 +16,43 @@
 			"points":"10"
 		}
 	]
+},
+{
+	"title":"This assignment tests you on how to use the collections API package in java",
+	"activityType":"assignment",
+	"questions":
+	[
+		{
+			"questionType": "filesubmission",
+			"questionText": [
+				{
+					"text":"Write a program, to implement Hashtable (Java API). Following are the operations:<br>    <b>put(K,V) :</b> Maps the specified key to the specified value in this hashtable<br>    <b>get(K) :</b> Returns the value to which the specified key is mapped, or null if this map contains no mapping for the key<br>    <b>equals(E) :</b> Compares the specified Object with this Map for equality, as per the definition in the Map interface.<br>Check your program against test cases below as a zip file. Submit your solution(zip file) when all test cases are passed"
+				},
+				{
+					"attachment" : ["Assignment-2.zip"]
+				}
+			],
+			"points":"10"
+		}
+	]
+},
+{
+	"title":"This assignment tests you on how to use the collections API package in java",
+	"activityType":"assignment",
+	"questions":
+	[
+		{
+			"questionType": "filesubmission",
+			"questionText": [
+				{
+					"text":"Write a program to create a dictionary of words for given text file.<br>Check your program against test cases below as a zip file. Submit your solution(zip file) when all test cases are passed"
+				},
+				{
+					"attachment" : ["Assignment-3.zip"]
+				}
+			],
+			"points":"10"
+		}
+	]
 }
 ]

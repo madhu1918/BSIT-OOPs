@@ -16,5 +16,63 @@
 			"points":"10"
 		}
 	]
+},
+{
+	"title":"This assignment tests you on how to call a function using recursion in java program.",
+	"activityType":"assignment",
+	"questions":
+	[
+		{
+			"questionType": "filesubmission",
+			"questionText": [
+				{
+					"text":"The Fibonacci sequence is a famous bit of mathematics, and it happens to have a recursive definition. The first two values in the sequence are 0 and 1 (essentially 2 base cases). Each subsequent value is the sum of the previous two values, so the whole sequence is 0, 1, 1, 2, 3, 5, 8, 13, 21 and so on. Define a recursive Fibonacci(n) method that returns the nth Fibonacci number, with n=0 representing the start of the sequence.<br>fibonacci(0) → 0<br>fibonacci(1) → 1<br>fibonacci(2) → 1<br>Check your program against test cases below as a zip file. Submit your solution(zip file) when all test cases are passed"
+				},
+				{
+					"attachment" : ["Assignment-2.zip"]
+				}
+			],
+			"points":"10"
+			
+		}
+	]
+},
+{
+	"title":"This assignment tests you on how to call a function using recursion in java program.",
+	"activityType":"assignment",
+	"questions":
+	[
+		{
+			"questionType": "filesubmission",
+			"questionText": [
+				{
+					"text":"Given a non-negative int n, compute recursively (no loops) the count of the occurrences of 8 as a digit, except that an 8 with another 8 immediately to its left counts double, so 8818 yields 4. Note that mod (%) by 10 yields the rightmost digit (126 % 10 is 6), while divide (/) by 10 removes the rightmost digit (126 / 10 is 12).<br>count8(8) → 1<br>count8(818) → 2<br>count8(8818) → 4<br>Check your program against test cases below as a zip file. Submit your solution(zip file) when all test cases are passed"
+				},
+				{
+					"attachment" : ["Assignment-3.zip"]
+				}
+			],
+			"points":"10"
+		}
+	]
+},
+{
+	"title":"This assignment tests you on how to call a function using recursion in java program.",
+	"activityType":"assignment",
+	"questions":
+	[
+		{
+			"questionType": "filesubmission",
+			"questionText": [
+				{
+					"text":"Write a program to print the n-bit binary reflected Gray code using recursion.<br>Sample Input : 3<br>Sample Output:<br> 000 <br> 001 <br> 011 <br> 010 <br> 110 <br> 111 <br> 101 <br> 100<br>Check your program against test cases below as a zip file. Submit your solution(zip file) when all test cases are passed"
+				},
+				{
+					"attachment" : ["Assignment-4.zip"]
+				}
+			],
+			"points":"20"
+		}
+	]
 }
 ]
