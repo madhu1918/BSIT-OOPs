@@ -1,0 +1,11 @@
+[{
+	"title": "This assignment tests you to how to define a meaningful package to use them in the program.",
+	"activityType": "assignment",
+	"questions": [
+		{
+			"questionType": "filesubmission",
+			"questionText": "Create a Jar FIle with the ListADT and set it up in the classpath.",
+			"points":"10"
+		}		
+	]
+}]

@@ -1,0 +1,20 @@
+[{
+	"title":"Looking forward to testing you on strings, This assignment checks you on what can do differently with strings operations.",
+	"activityType":"assignment",
+	"questions":
+	[
+		{
+			"questionType": "filesubmission",
+			"questionText": [
+				{
+					"text":"Given a string, return a version without the first and last char, so \"Hello\" yields ell. The string length will be at least 2.<br>withoutEnd(\"Hello\") → ell<br>withoutEnd(\"java\") → av<br>withoutEnd(\"coding\") → odin<br>Check your program against test cases below as a zip file. Submit your solution(zip file) when all test cases are passed"
+				},
+				{
+					"attachment" : ["Assignment-1.zip"]
+				}
+			],
+			"points":"10"
+		}
+	]
+}
+]

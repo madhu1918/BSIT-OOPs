@@ -1,0 +1,17 @@
+[
+	{
+		"title":"This activity teaches you to how to use user-defined exceptions in any java program.",
+		"activityType":"video",
+		"videoURL":"/Video on User Defined Exceptions.mp4",
+		"videoResources" : "/Video on User Defined Exceptions.zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the video on User Defined Exceptions"
+		}
+		]
+	}
+]

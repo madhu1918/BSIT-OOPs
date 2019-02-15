@@ -1,0 +1,20 @@
+[{
+	"title":"This assignment tests you on how to use if else statements when you want to make decisions in the program.",
+	"activityType":"assignment",
+	"questions":
+	[
+		{
+			"questionType": "filesubmission",
+			"questionText": [
+				{
+					"text":"Write a program that displays the name of the day, based on the value of the day, using the switch statement.<br> displayNameOfDay(1) → Monday<br>displayNameOfDay(5) → Friday<br>displayNameOfDay(25) → Invalid input! Week number should be in between 1-7.<br>Check your program against test cases below as a zip file. Submit your solution(zip file) when all test cases are passed"
+				},
+				{
+					"attachment" : ["Assignment-3.zip"]
+				}
+			],
+			"points":"20"
+		}
+	]
+}
+]

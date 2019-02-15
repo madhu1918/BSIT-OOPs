@@ -1,0 +1,21 @@
+[{
+	"title":"This assignment tests you on how to call a function using recursion in java program.",
+	"activityType":"assignment",
+	"questions":
+	[
+		{
+			"questionType": "filesubmission",
+			"questionText": [
+				{
+					"text":"The Fibonacci sequence is a famous bit of mathematics, and it happens to have a recursive definition. The first two values in the sequence are 0 and 1 (essentially 2 base cases). Each subsequent value is the sum of the previous two values, so the whole sequence is 0, 1, 1, 2, 3, 5, 8, 13, 21 and so on. Define a recursive Fibonacci(n) method that returns the nth Fibonacci number, with n=0 representing the start of the sequence.<br>fibonacci(0) → 0<br>fibonacci(1) → 1<br>fibonacci(2) → 1<br>Check your program against test cases below as a zip file. Submit your solution(zip file) when all test cases are passed"
+				},
+				{
+					"attachment" : ["Assignment-2.zip"]
+				}
+			],
+			"points":"10"
+			
+		}
+	]
+}
+]

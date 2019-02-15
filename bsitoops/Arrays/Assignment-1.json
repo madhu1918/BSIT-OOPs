@@ -1,0 +1,19 @@
+[{
+	"title":"This assignment tests you on  how to create and use array object in the java program.",
+	"activityType":"assignment",
+	"questions":
+	[
+		{
+			"questionType": "filesubmission",
+			"questionText": [
+				{
+					"text":"Given an array of ints, return true if the arrays of length are 1 or more, and the first element and the last element are equal.<br>sameFirstLast([1, 2, 3]) → false<br>sameFirstLast([1, 2, 3, 1]) → true<br>sameFirstLast([1, 2, 1]) → true<br>Check your program against test cases below as a zip file. Submit your solution(zip file) when all test cases are passed"
+				},
+				{
+					"attachment" : ["Assignment-1.zip"]
+				}
+			],
+			"points":"10"
+		}
+	]
+}]

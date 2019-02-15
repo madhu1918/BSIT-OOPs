@@ -1,0 +1,49 @@
+[{
+	"activityType":"quiz",
+	"title": " This assignment will help you to recollect the syntax and semantics while writing and executing a java program.",
+	"quizDescription" : [
+		{
+			"text" :"Use the below code for answering the following questions"
+		},
+		{
+			"code" : "HelloWorld.java"
+		}
+	],
+	"questions": [
+		{
+			"questionType" : "summarize",
+			"points" : "5",
+			"questionText": "Describe what happens if you misspell <code>main</code> in the above code"
+		},
+		{
+			"questionType" : "summarize",
+			"points" : "5",
+			"questionText": "Describe what happens if you misspell <code>String</code> in the above code"
+		},
+		{
+			"questionType" : "summarize",
+			"points" : "5",
+			"questionText": "Describe what happens if you misspell <code>HelloWorld</code> in the above code"
+		},
+		{
+			"questionType" : "summarize",
+			"points" : "5",
+			"questionText": "Describe what happens if you misspell <code>System.out</code> in the above code"
+		},
+		{
+			"questionType" : "summarize",
+			"points" : "5",
+			"questionText": "Describe what happens if you misspell <code>println</code> in the above code"
+		},
+		{
+			"questionType" : "summarize",
+			"points" : "5",
+			"questionText": "Describe what happens if you misspell <code>the first }</code> in the above code"
+		},
+		{
+			"questionType" : "summarize",
+			"points" : "5",
+			"questionText": "Describe what happens if you misspell <code>the second }</code> in the above code"
+		}
+	]
+}]

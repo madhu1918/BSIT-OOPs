@@ -1,0 +1,18 @@
+[{
+	"title": "This assignment tests you how can you convert a mathematical formula to a java program.",
+	"activityType": "assignment",
+	"questions": [{
+			"questionType": "filesubmission",
+			"questionText": [
+				{
+					"text":"Write a java program to calculate the area of a triangle.(formula: 0.5 * base * height)<br>Check your program against test cases below as a zip file. Submit your solution(zip file) when all test cases are passed"
+				},
+				{
+					"attachment" : ["Assignment-1.zip"]
+				}
+			],
+			"points":"5"
+		}		
+
+	]
+}]

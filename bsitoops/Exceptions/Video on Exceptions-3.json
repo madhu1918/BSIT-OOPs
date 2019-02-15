@@ -1,0 +1,17 @@
+[
+	{
+		"title":"This activity makes you learn different types of exceptions in the code snippets and how to identify and handle them in java language.",
+		"activityType":"video",
+		"videoURL":"/Video on Exceptions-3.mp4",
+		"videoResources" : "/Video on Exceptions-3.zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the video on Exceptions-3"
+		}
+		]
+	}
+]

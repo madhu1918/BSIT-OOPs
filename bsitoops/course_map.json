@@ -1,0 +1,467 @@
+{
+	"title" : "Object Oriented Programming",
+	"overview": [
+        "Intensive and hands-on, the course emphasizes becoming productive quickly as a Java developer. This course quickly covers the Java language syntax and then moves into the object-oriented features of the language. Students will then learn the I/O streams and collections API packages. The goal of this course is to introduce techniques used in computer science to solve complex problems."
+    ],
+    "learningObjectives": [
+    	"Read and trace a Java program.",
+    	"Compile and execute Java program.",
+    	"Write Java code.",
+    	"Write modular code using functions.",
+	"Write object oriented Java program.",
+	"Create Abstract Data Types.",
+	"Apply Generics for re-usable code.",
+	"Write invariant using assert.",
+	"Handle errors using exception handling.",
+	"Use Java API for file I/O."
+    ],
+	"units" :
+	[
+		{
+			"title":"Introduction to Java",
+			"overview":
+			[
+                "Java is a general-purpose computer-programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible. It is intended to let application developers \"write once, run anywhere\" (WORA),meaning that compiled Java code can run on all platforms that support Java without the need for recompilation"
+            ],
+            "learningObjectives":
+            [
+	            "Describe the features of Java.",
+				"Create and run Java Programs.",
+				"Use of checkstyle to write clean code.",
+				"Learn syntax and semantics of programming language."
+            ],
+            "totalPoints": 110,
+            "requiredPoints": 94,
+			"activities":
+			[
+				"Video on Introduction to Java",
+				"Video on Installation of Java",
+				"Video on Setting a Classpath",
+				"Video on Running Hello World Program",
+				"Video on Checkstyle",
+				"Assignment-1",
+				"Assignment-2",
+				"Assignment-3",
+				"Assignment-4",
+				"Assignment-5"
+			]
+		},
+		{
+			"title":"Core Elements",
+			 "totalPoints": 15,
+            "requiredPoints": 13,
+			"overview":
+			[
+                "Core elements are the building blocks for any programming language. The main core elements we use in java are variables, operators"
+            ],
+            "learningObjectives":
+            [
+	            "Computer fundamental operations.",
+				"Evaluating expressions.",
+				"Usage of operators.",
+				"Know typecasting."
+            ],
+			"activities":
+			[
+				"Video on Swapping two numbers",
+				"Video on Computing quotient and reminder for given two numbers",
+				"Video on Converting temperature from Celsius to Fahrenheit",
+				"Video on calculating Simple Interest",
+				"Assignment-1",
+				"Assignment-2"
+			]
+		},
+		{
+			"title":"Simple Functions",
+			 "totalPoints": 30,
+            "requiredPoints": 25,
+			"overview":
+			[
+                "In computer programming, a function is a sequence of program instructions that perform a specific task, packaged as a unit. This unit can be used in programs wherever that particular task should be performed."
+            ],
+            "learningObjectives":
+            [
+	           "Defining/creating a function and its uses.",
+				"Using function arguments and returning values.",
+				"Using functions in a class."
+
+            ],
+			"activities":
+			[
+				"Video on functions with No parameters and No return value",
+				"Video on functions with parameters and No return value",
+				"Video on functions with No parameters and return value",
+				"Video on functions with parameters and return value",
+				"Assignment-1",
+				"Assignment-2",
+				"Assignment-3"
+			]
+		},
+		{
+			"title":"Branching",
+			 "totalPoints": 45,
+            "requiredPoints": 39,
+			"overview":
+			[
+                "Core elements are the building blocks for any programming language. One of the core element we use in Java is branching."
+            ],
+            "learningObjectives":
+            [
+            	"Learn about conditional branching.",
+            	"Using switch cases."
+            ],
+			"activities":
+			[
+				"Video on Simple if else",
+				"Video on else if ladder-1",
+				"Video on else if ladder-2",
+				"Video on switch case",
+				"Assignment-1",
+				"Assignment-2",
+				"Assignment-3",
+				"Assignment-4"
+			]
+		},
+		{
+			"title" : "Looping",
+			 "totalPoints": 35,
+            "requiredPoints": 30,
+			"overview": [
+                "Core elements are the building blocks for any programming language. One of the core element we use in Java is looping."
+            ],
+            "learningObjectives":
+            [
+	            "Learn about loops.",
+				"Using for, while and do-while loops.",
+				"Learn about nested loops."
+            ],
+			"activities":
+			[
+				"Video on while loop",
+				"Video on for loop-1",
+				"Video on for loop-2",
+				"Assignment-1",
+				"Assignment-2",
+				"Assignment-3",
+				"Assignment-4"
+
+			]
+		},
+		{
+			"title":"Arrays",
+			 "totalPoints": 40,
+            "requiredPoints": 34,
+			"overview": [
+                "Java provides a data structure, the array, which stores a fixed-size sequential collection of elements of the same type. An array is used to store a collection of data, but it is often more useful to think of an array as a collection of variables of the same type.<br>Instead of declaring individual variables, such as number0, number1, ..., and number99, you declare one array variable such as numbers and use numbers[0], numbers[1], and ..., numbers[99] to represent individual variables."
+            ],
+            "learningObjectives":
+            [
+            	"Create and access elements in a array.",
+				"Operations on arrays.",
+				"Various array types."
+            ],
+			"activities":
+			[
+				"Video on Arrays-1",
+				"Video on Arrays-2",
+				"Video on Arrays-3",
+				"Video on Arrays-4",
+				"Assignment-1",
+				"Assignment-2",
+				"Assignment-3",
+				"Assignment-4"
+			]
+		},
+		{
+			"title":"Strings-1",
+			 "totalPoints": 30,
+            "requiredPoints": 25,
+			"overview": [
+                "Basically strings, which are widely used in Java programming, are a sequence of characters. In Java programming language, strings are treated as objects. The Java platform provides the String class to create and manipulate strings"
+            ],
+            "learningObjectives":
+            [
+            	"Create and access strings objects.",
+				"Operations on string objects.",
+				"Using build-in string methods."
+            ],
+			"activities":
+			[
+				"Video on Strings-1",
+				"Video on Strings-2",
+				"Video on Strings-3",
+				"Video on Strings-4",
+				"Video on Strings-5",
+				"Assignment-1",
+				"Assignment-2",
+				"Assignment-3",
+				"Assignment-4"
+			]
+		},
+		{
+			"title":"Strings-2",
+			 "totalPoints": 40,
+            "requiredPoints": 34,
+			"overview": [
+                "Strings, which are widely used in Java programming, are a sequence of characters. In Java programming language, strings are treated as objects. The Java platform provides the String class to create and manipulate strings."
+            ],
+            "learningObjectives": [
+            	"Create and access strings objects.",
+				"Operations on string objects.",
+				"Using build-in string methods."
+
+            ],
+			"activities":
+			[
+				"Video on Strings-6",
+				"Video on Strings-7",
+				"Video on Strings-8",
+				"Assignment-1",
+				"Assignment-2",
+				"Assignment-3"
+			]
+		},
+		{
+			"title":"Exceptions",
+			 "totalPoints": 15,
+            "requiredPoints": 13,
+            "overview": [
+                "If the assert condition is true, it does nothing and your program just continues to execute. But if the assert condition evaluates to false, it raises an AssertionError exception with an optional error message. ... To summarize: Java assert statement is a debugging aid, not a mechanism for handling run-time errors."
+            ],
+            "learningObjectives": [
+            "Introduction to Errors and Exceptions.",
+			"Difference between errors and exceptions.",
+			"Handling exceptions.",
+			"Exception control flow.",
+			"Raising exceptions.",
+			"User defined exceptions."
+
+            ],
+			"activities":
+			[
+				"Video on Exceptions-1",
+				"Video on Exceptions-2",
+				"Video on Exceptions-3",
+				"Video on Exceptions-4",
+				"Video on Exceptions-5",
+				"Assignment-1",
+				"Assignment-2",
+				"Assignment-3"
+			]
+		},
+		{
+			"title":"Class and Objects","overview": [
+                "A class is a user-defined blueprint or prototype from which objects are created. It represents the set of properties or methods that are common to all objects of one type. In general, class declarations can include these components, in order:<br><b>Modifiers :</b> A class can be public or has default access.<br><b>Class name:</b> The name should begin with a initial letter (capitalized by convention).<br><b>Superclass(if any):</b> The name of the class’s parent (superclass), if any, preceded by the keyword extends. A class can only extend (subclass) one parent.<br><b>Interfaces(if any):</b> A comma-separated list of interfaces implemented by the class, if any, preceded by the keyword implements. A class can implement more than one interface.<br><b>Body:</b> The class body surrounded by braces, { }."
+            ],
+             "totalPoints": 10,
+            "requiredPoints": 9,
+            "learningObjectives": [
+            "Explain the Concepts of Object Oriented Programming.",
+			"Create a User-defined Data Type.",
+			"Define a class with its Properties and Behaviour.",
+			"Add methods to a class"
+
+            ],
+			"activities":
+			[
+				"Video on Classes and Objects",
+				"Assignment-1"
+			]
+		},
+		{
+			"title":"List ADT (Abstract Data Types)","overview": [
+                "In computer science, a list or sequence is an abstract data type that represents a countable number of ordered values, where the same value may occur more than once. An instance of a list is a computer representation of the mathematical concept of a finite sequence; the (potentially) infinite analog of a list is a stream. Lists are a basic example of containers, as they contain other values. If the same value occurs multiple times, each occurrence is considered a distinct item."
+            ],
+            "learningObjectives": [
+            	"Explain the Concepts of Abstract Data Types.",
+				"Create a List Abstract Data Type.",
+				"Define Properties and Behaviour of ListADT."
+            ],
+             "totalPoints": 30,
+            "requiredPoints": 25,
+			"activities":
+			[
+				"Video on List ADT-1",
+				"Video on List ADT-2",
+				"Video on List ADT-3",
+				"Assignment-1",
+				"Assignment-2",
+				"Assignment-3"
+			]
+		},
+		{
+			"title":"Inheritance","overview": [
+                "In object-oriented programming, inheritance is when an object or class is based on another object (prototypal inheritance) or class (class-based inheritance), using the same implementation."
+            ],
+            "learningObjectives": [
+            "Describe Inheritance and it's need in OOPs.",
+			"Differentiate Subclass and Superclass.",
+			"Explain types of Inheritance."
+            ],
+             "totalPoints": 40,
+            "requiredPoints": 34,
+			"activities":
+			[
+				"Video on Inheritance",
+				"Assignment-1",
+				"Assignment-2"
+			]
+		},
+		{
+			"title":"User Defined Exceptions","overview": [
+                "If the assert condition is true, it does nothing and your program just continues to execute. But if the assert condition evaluates to false, it raises an AssertionError exception with an optional error message. To print our own messages, we need to know about User-defined Exceptions."
+            ],
+            "learningObjectives": [
+            "User defined exceptions.",
+			"Handling exceptions.",
+			"Difference between errors and exceptions.",
+			"Raising exceptions."
+
+            ],
+             "totalPoints": 20,
+            "requiredPoints": 17,
+			"activities":
+			[
+				"Video on User Defined Exceptions",
+				"Assignment-1",
+				"Assignment-2"
+			]
+		},
+		{
+			"title":"Generics","overview": [
+                "Generics are a facility of generic programming that was added to the Java programming language in 2004 within version J2SE 5.0. They were designed to extend Java's type system to allow “a type or method to operate on objects of various types while providing compile-time type safety. The aspect of compile-time type safety was not fully achieved since it was shown in 2016 that it is not guaranteed in all cases."
+            ],
+            "learningObjectives": [
+            "Create generic class.",
+			"Usage of generic in ADT."
+
+            ],
+             "totalPoints": 10,
+            "requiredPoints": 9,
+			"activities":
+			[
+				"Video on Generics",
+				"Assignment-1"
+			]
+		},
+		{
+			"title":"Input and Output","overview": [
+                "Java allows us to read data from various output devices. One of them is a command line. The actions we can perform are read, print data to command prompt. File Input-output can allow us to access and change any file. The actions we can perform are read, write and append data to a file"
+            ],
+            "learningObjectives": [
+            	"Read and print on command line.",
+				"Learn file reading, writing.",
+				"Learn appending data to a file."
+            ],
+             "totalPoints": 35,
+            "requiredPoints": 30,
+			"activities":
+			[
+				"Video on Input and Output",
+				"Assignment-1",
+				"Assignment-2",
+				"Assignment-3"
+			]
+		},
+		{
+			"title":"Recursion","overview": [
+                "Recursion in computer science is a method where the solution to a problem depends on solutions to smaller instances of the same problem. The approach can be applied to many types of problems.<br><br>The power of recursion evidently lies in the possibility of defining an infinite set of objects by a finite statement. In the same manner, an infinite number of computations can be described by a finite recursive program, even if this program contains no explicit repetitions."
+            ],
+            "learningObjectives": [
+            "Introduction to computational functions.",
+			"Iterative Algorithms.",
+			"Recursive Algorithms.",
+			"Using Environments to understand Recursion.",
+			"Global Variables."
+            ],
+             "totalPoints": 50,
+            "requiredPoints": 43,
+			"activities":
+			[
+				"Video on Recursion-1",
+				"Video on Recursion-2",
+				"Video on Recursion-3",
+				"Video on Recursion-4",
+				"Assignment-1",
+				"Assignment-2",
+				"Assignment-3",
+				"Assignment-4"
+			]
+		},
+		{
+			"title":"Collections API","overview": [
+                "A collection represents a group of objects, known as its elements. Some collections allow duplicate elements and others do not. Some are ordered and others unordered. The JDK does not provide any direct implementations of this interface: it provides implementations of more specific subinterfaces like Set and List. This interface is typically used to pass collections around and manipulate them where maximum generality is desired. "
+            ],
+            "learningObjectives": [
+            	"Introduction to Collections API.",
+				"Use of Objects in API."
+            ],
+             "totalPoints": 30,
+            "requiredPoints": 25,
+			"activities":
+			[
+				"Video on Collections API-1",
+				"Video on Collections API-2",
+				"Video on Collections API-3",
+				"Assignment-1",
+				"Assignment-2",
+				"Assignment-3"
+			]
+		},
+		{
+			"title":"Hangman Part-1","overview": [
+                "<b>Hangman</b> is a paper and pencil guessing game for two or more players. One player thinks of a word, phrase or sentence and the other(s) tries to guess it by suggesting letters or numbers, within a certain number of guesses.<br>The word to guess is represented by a row of dashes, representing each letter of the word. In most variants, proper nouns, such as names, places, and brands, are not allowed. Slang words, sometimes referred to as informal or shortened words, are also not allowed. If the guessing player suggests a letter which occurs in the word, the other player writes it in all its correct positions. If the suggested letter or number does not occur in the word, the other player draws one element of a hanged man stick figure as a tally mark."
+            ],
+            "learningObjectives": [
+            	"Usage of java classes.",
+				"Integration of objects.",
+				"Recap of the java concepts.",
+				"Testing larger java applications."
+
+            ],
+             "totalPoints": 30,
+            "requiredPoints": 25,
+			"activities":
+			[
+				"Project-Introduction",
+				"Assignment-1"
+			]
+		},
+		{
+			"title":"Hangman Part-2","overview": [
+                "<b>Hangman</b> is a paper and pencil guessing game for two or more players. One player thinks of a word, phrase or sentence and the other(s) tries to guess it by suggesting letters or numbers, within a certain number of guesses.<br>The word to guess is represented by a row of dashes, representing each letter of the word. In most variants, proper nouns, such as names, places, and brands, are not allowed. Slang words, sometimes referred to as informal or shortened words, are also not allowed. If the guessing player suggests a letter which occurs in the word, the other player writes it in all its correct positions. If the suggested letter or number does not occur in the word, the other player draws one element of a hanged man stick figure as a tally mark."
+            ],
+            "learningObjectives": [
+            	"Usage of java classes.",
+				"Integration of objects.",
+				"Recap of the java concepts.",
+				"Testing larger java applications."
+
+            ],
+             "totalPoints": 30,
+            "requiredPoints": 25,
+			"activities":
+			[
+				"Assignment-1"
+			]
+		},
+		{
+			"title":"Hangman Part-3","overview": [
+                "<b>Hangman</b> is a paper and pencil guessing game for two or more players. One player thinks of a word, phrase or sentence and the other(s) tries to guess it by suggesting letters or numbers, within a certain number of guesses.<br>The word to guess is represented by a row of dashes, representing each letter of the word. In most variants, proper nouns, such as names, places, and brands, are not allowed. Slang words, sometimes referred to as informal or shortened words, are also not allowed. If the guessing player suggests a letter which occurs in the word, the other player writes it in all its correct positions. If the suggested letter or number does not occur in the word, the other player draws one element of a hanged man stick figure as a tally mark."
+            ],
+            "totalPoints": 30,
+            "requiredPoints": 25,
+            "learningObjectives": [
+            	"Usage of java classes.",
+				"Integration of objects.",
+				"Recap of the java concepts.",
+				"Testing larger java applications."
+
+            ],
+			"activities":
+			[
+				"Assignment-1"
+			]
+		}
+	]
+}

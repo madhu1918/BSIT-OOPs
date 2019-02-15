@@ -1,0 +1,20 @@
+[{
+	"title":"This assignment tests you on how to use the collections API package in java",
+	"activityType":"assignment",
+	"questions":
+	[
+		{
+			"questionType": "filesubmission",
+			"questionText": [
+				{
+					"text":"Write a program to create a dictionary of words for given text file.<br>Check your program against test cases below as a zip file. Submit your solution(zip file) when all test cases are passed"
+				},
+				{
+					"attachment" : ["Assignment-3.zip"]
+				}
+			],
+			"points":"10"
+		}
+	]
+}
+]

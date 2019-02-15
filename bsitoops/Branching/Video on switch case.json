@@ -1,0 +1,18 @@
+[
+	{
+		"title":"This activity teaches you how to use switch keyword when you want to make decisions in the program instead of if else statements.",
+		"activityType":"video",
+		"videoURL":"/Video on switch case.mp4",
+		"videoResources" : "/Video on switch case.zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the video on switch case"
+		}
+		]
+	}
+]
+

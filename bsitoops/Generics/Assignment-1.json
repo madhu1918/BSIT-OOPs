@@ -1,0 +1,19 @@
+[{
+	"title": "This assignment tests you to how to use user defined exceptions in any java program.",
+	"activityType": "assignment",
+	"questions": [
+		{
+			"questionType": "filesubmission",
+			"questionText": [
+				{
+					"text":"Use the program which is developed in <b>List ADT (Abstract Data Types)</b> unit and create the Generic ListADT which accepts any T like character, integer, float, etc as follows.<br><b>subList(int, int) :</b> Returns a list containing elements, including startIndex and excluding endIndex. The first parameter indicates the startIndex and the second parameter indicates the endIndex.<br><b>equals(&lt;T&gt;[]) :</b>  Returns a boolean indicating whether the parameter &lt;T&gt;[] exactly matches with the given list or not<br><b>clear() :</b> Removes all the elements from list<br><b>retainAll(&lt;T&gt;[]) :</b> Retains only the elements in this list that are contained in the specified element array.<br><b>contains(&lt;T&gt;):</b> returns true, if given element is in list.<br><b>indexOf(&lt;T&gt;)  :</b> Returns the index of the first occurrence of the specified element in this list, or -1 if this list does not contain the &lt;T&gt;<br><b>removeAll() :</b> Removes from this list all of its elements that are contained in the specified generic array.<br>Check your program against test cases below as a zip file. Submit your solution(zip file) when all test cases are passed"
+		},
+				{
+					"attachment" : ["Assignment-1.zip"]
+				}
+			],
+			"points":"10"
+		}
+
+	]
+}]

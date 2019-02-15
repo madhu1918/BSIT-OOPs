@@ -1,0 +1,18 @@
+[
+	{
+		"title":"After learning how to execute a java program, you need to know the code readability which gets better with the help of good indentations. This can be achieved with checkstyles (like sun and google checkstyles).",
+		"activityType":"video",
+		"videoURL":"/Video on Checkstyle.mp4",
+		"videoResources" : "/Video on Checkstyle.zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the video on Checkstyle"
+			}
+		
+		]
+	}
+]

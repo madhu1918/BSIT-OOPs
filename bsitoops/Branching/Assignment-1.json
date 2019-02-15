@@ -1,0 +1,20 @@
+[{
+	"title":"This assignment tests you on how to use if else statements when you want to make decisions in the program.",
+	"activityType":"assignment",
+	"questions":
+	[
+		{
+			"questionType": "filesubmission",
+			"questionText": [
+				{
+					"text":"Given 2 int values, return true if either of them is in the range 10..20 inclusive.<br>n1020(12, 99) → true<br>in1020(21, 12) → true<br>in1020(8, 99) → false<br>Check your program against test cases below as a zip file. Submit your solution(zip file) when all test cases are passed"
+				},
+				{
+					"attachment" : ["Assignment-1.zip"]
+				}
+			],
+			"points":"5"
+		}
+	]
+}
+]

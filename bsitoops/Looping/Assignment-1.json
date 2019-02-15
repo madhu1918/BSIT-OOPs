@@ -1,0 +1,14 @@
+[{
+	"title":"This assignment tests you on how to use different loops to iterate the operations.",
+	"activityType":"assignment",
+	"questions":
+	[
+		{
+			"questionType": "filesubmission",
+			"questionText": "Write a java program to convert the following code using while loop.",
+			"code":"Looping1.java",
+			"points":"5"
+		}
+	]
+}
+]

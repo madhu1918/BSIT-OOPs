@@ -1,0 +1,18 @@
+[{
+	"title": "This activity teaches you to how to use user defined exceptions in any java program.",
+	"activityType": "assignment",
+	"questions": [{
+			"questionType": "filesubmission",
+			"questionText": [
+				{
+					"text":"Now your task is to extend the program which is discussed as part of the video.<br><b>ListEmptyException:</b>This exception has to be thrown when there is no element to be removed from the list, Throw this exception and print message saying <b>List is empty</b><br>Check your program against test cases below as a zip file. Submit your solution(zip file) when all test cases are passed"
+				},
+				{
+					"attachment" : ["Assignment-1.zip"]
+				}
+			],
+			"points":"10"
+		}		
+
+	]
+}]

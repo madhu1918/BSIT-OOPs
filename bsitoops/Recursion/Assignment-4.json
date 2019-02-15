@@ -1,0 +1,20 @@
+[{
+	"title":"This assignment tests you on how to call a function using recursion in java program.",
+	"activityType":"assignment",
+	"questions":
+	[
+		{
+			"questionType": "filesubmission",
+			"questionText": [
+				{
+					"text":"Write a program to print the n-bit binary reflected Gray code using recursion.<br>Sample Input : 3<br>Sample Output:<br> 000 <br> 001 <br> 011 <br> 010 <br> 110 <br> 111 <br> 101 <br> 100<br>Check your program against test cases below as a zip file. Submit your solution(zip file) when all test cases are passed"
+				},
+				{
+					"attachment" : ["Assignment-4.zip"]
+				}
+			],
+			"points":"20"
+		}
+	]
+}
+]

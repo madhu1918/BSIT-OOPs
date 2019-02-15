@@ -1,0 +1,20 @@
+[{
+	"title":"This assignment tests you on how to use the collections API package in java",
+	"activityType":"assignment",
+	"questions":
+	[
+		{
+			"questionType": "filesubmission",
+			"questionText": [
+				{
+					"text":"Write a program, to implement ArrayList (Java API). Following are the operations:<br>    <b>addAll(int, E) :</b> Inserts all of the elements in the specified collection into this list, starting at the specified position.<br>    <b>ensureCapacity(int) :</b> Increases the capacity of this ArrayList instance, if necessary, to ensure that it can hold at least the number of elements specified by the minimum capacity argument.<br>    <b>get(int) :</b> Returns the element at the specified position in this list.<br>    <b>median() :</b> calculate the median of the elements in the arraylist.<br>Check your program against test cases below as a zip file. Submit your solution(zip file) when all test cases are passed"
+				},
+				{
+					"attachment" : ["Assignment-1.zip"]
+				}
+			],
+			"points":"10"
+		}
+	]
+}
+]

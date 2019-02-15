@@ -1,0 +1,19 @@
+[{
+	"title": "This assignment tests you to convert a mathematical formula into a function with different arguments, which you have learned in the activities.",
+	"activityType": "assignment",
+	"questions": [{
+			"questionType": "filesubmission",
+			"questionText": [
+				{
+					"text":" Write a java function to calculate the sum of area and square of the perimeter of regular polygon. The function polySum takes two integers parameters and returns the integer which is rounded to four decimal places.<br><b>Formulas:</b><br>    Area of regular polygon is (0.25*n*s*s)/tan(pi/n)<br>    Perimeter of regular polygon is n*a<br>Check your program against test cases below as a zip file. Submit your solution(zip file) when all test cases are passed"
+				},
+				{
+					"attachment" : ["Assignment-3.zip"]
+				}
+			],
+			"points":"10"
+
+		}		
+
+	]
+}]

@@ -1,0 +1,22 @@
+[{
+	"title":"This assignment tests you to how to take inputs from command prompt.",
+	"activityType":"assignment",
+	"questions":
+	[
+		{
+			"questionType": "filesubmission",
+			"questionText": [
+				{
+					"text" : "Create a program using Scanner Object to take inputs from command prompt:<br>Given String s, print all the substrings of the string in given format.<br>Input : BSIT<br>Output:<br>[“B”, “BS”, “BSI”, “BSIT”]<br>Check your program against test cases below as a zip file. Submit your solution(zip file) when all test cases are passed"
+				},
+				{
+					"attachment" : ["Assignment-1.zip"]
+				}
+			],
+			"points":"5"
+		}
+			
+		
+	]
+}
+]

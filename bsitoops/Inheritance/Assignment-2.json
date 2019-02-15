@@ -1,0 +1,20 @@
+[{
+	"title":"This assignment tests you to how to define a parent and child classes by the use of inheritance.",
+	"activityType":"assignment",
+	"questions":
+	[
+		{
+			"questionType": "filesubmission",
+			"questionText": [
+				{
+					"text":"Create a class called Cube by extending the features of Shape with attributes side of the cube. Find the area and perimeter of the Cube by implementing the methods area and perimeter which are derived from Shape.<br>Check your program against test cases below as a zip file. Submit your solution(zip file) when all test cases are passed"
+				},
+				{
+					"attachment" : ["Assignment-2.zip"]
+				}
+			],
+			"points":"20"
+		}
+	]
+}
+]

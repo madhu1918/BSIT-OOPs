@@ -1,0 +1,20 @@
+[{
+	"title":"This assignment tests you to how to define a class in java with attributes and behaviour.",
+	"activityType":"assignment",
+	"questions":
+	[
+		{
+			"questionType": "filesubmission",
+			"questionText": [
+				{
+					"text":"Write a program to create a class called Student with attributes roll Number, Student Name, marks of three subjects. Calculate the gradePointAverage().<br>Student(\"Sangay\", \"IT201985001\", 7.5, 7.0, 8.0) → 7.5<br>Student(\"Bidhya\", \"IT201985003\", 8.5, 6.0, 7.5) → 7.3<br>Student(\"Kelzang\", \"IT201985065\", 7.5, 8.0, 9.0) → 8.1<br>Check your program against test cases below as a zip file. Submit your solution(zip file) when all test cases are passed"
+				},
+				{
+					"attachment" : ["Assignment-1.zip"]
+				}
+			],
+			"points":"10"
+		}
+	]
+}
+]

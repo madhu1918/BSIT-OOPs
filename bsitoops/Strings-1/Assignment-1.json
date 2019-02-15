@@ -1,0 +1,20 @@
+[{
+	"title":"This assignment tests you on how to create string object and perform in build operations on strings objects.",
+	"activityType":"assignment",
+	"questions":
+	[
+		{
+			"questionType": "filesubmission",
+			"questionText":[
+				{
+					"text":"Write a program to return roll number, name and email using concat().<br>Check your program against test cases below as a zip file. Submit your solution(zip file) when all test cases are passed."
+				},
+				{
+					"attachment" : ["Assignment-1.zip"]
+				}
+			],
+			"points":"5"
+		}
+	]
+}
+]

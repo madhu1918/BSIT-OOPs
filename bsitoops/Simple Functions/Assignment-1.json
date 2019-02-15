@@ -1,0 +1,18 @@
+[{
+	"title": "This assignment tests you to convert a mathematical formula into a function with different arguments.",
+	"activityType": "assignment",
+	"questions": [{
+			"questionType": "filesubmission",
+			"questionText": [
+				{
+					"text":"Write a function to find the roots of an Quadratic equation.<a href=\" https://youtu.be/iulx0z1lz8M\" target=\"_blank\">Link to resource</a><br>findRoots(1, -2, 1) → [1.0, 1.0]<br>findRoots(1, 7, 12) → [-3.0, -4.0]<br>Check your program against test cases below as a zip file. Submit your solution(zip file) when all test cases are passed"
+				},
+				{
+					"attachment" : ["Assignment-1.zip"]
+				}
+			],
+			"points":"10"
+		}		
+
+	]
+}]

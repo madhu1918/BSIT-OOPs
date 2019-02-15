@@ -1,0 +1,19 @@
+[
+	{
+		"title":"This activity teaches you how to use float, double data types while you handle decimal numbers, where you can change the data type of any number.",
+		"activityType":"video",
+		"videoURL":"/Video on Converting temperature from Celsius to Fahrenheit.mp4",
+		"videoResources" : "/Video on Converting temperature from Celsius to Fahrenheit.zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the video on Converting temperature from Celsius to Fahrenheit"
+			}
+		
+		]
+	}
+]
+

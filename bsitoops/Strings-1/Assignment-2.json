@@ -1,0 +1,20 @@
+[{
+	"title":"This assignment tests you on how to create string object and perform in build operations on strings objects like reverse a string, check for the length, etc.",
+	"activityType":"assignment",
+	"questions":
+	[
+		{
+			"questionType": "filesubmission",
+			"questionText": [
+				{
+					"text":"Given a String, Return true if the given String is palindrome, return false otherwise. A String is said to be palindrome, it is same if it is read in both the directions.<br>isPalindrome(“Hello”) → false<br>isPalindrome(“madam”) → true<br>isPalindrome(“Good Morning”) → false<br>Check your program against test cases below as a zip file. Submit your solution(zip file) when all test cases are passed"
+				},
+				{
+					"attachment" : ["Assignment-2.zip"]
+				}
+			],
+			"points":"5"
+		}
+	]
+}
+]

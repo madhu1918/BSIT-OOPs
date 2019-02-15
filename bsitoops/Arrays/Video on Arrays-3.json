@@ -1,0 +1,17 @@
+[
+	{
+		"title":"This activity teaches you on how to iterate array object with array length, by using different loops in Java.",
+		"activityType":"video",
+		"videoURL":"/Video on Arrays-3.mp4",
+		"videoResources" : "/Video on Arrays-3.zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the video on Arrays-3"
+		}
+		]
+	}
+]

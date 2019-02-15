@@ -1,0 +1,13 @@
+[{
+	"title": "This assignment tests you to recollect the concepts of the exceptions in java.",
+	"activityType": "assignment",
+	"questions": [
+		{
+			"questionType": "filesubmission",
+			"questionText": "Is the following code legal?",
+			"code":"Assignment1.java",
+			"points":"5"
+		}		
+
+	]
+}]

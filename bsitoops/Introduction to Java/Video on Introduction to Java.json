@@ -1,0 +1,18 @@
+[
+	{
+		"title":"In this activity, you will get to know about the Java programming language.",
+		"activityType":"video",
+		"videoURL":"/Video on Introduction to Java.mp4",
+		"videoResources" : "/Video on Introduction to Java.zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the video on Introduction to Java"
+			}
+		
+		]
+	}
+]

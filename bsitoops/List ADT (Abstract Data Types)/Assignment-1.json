@@ -1,0 +1,19 @@
+[{
+	"title": "This assignment tests you to how to define an abstract data types in Java, especially on ListADT.",
+	"activityType": "assignment",
+	"questions": [
+		{
+			"questionType": "filesubmission",
+			"questionText": [
+				{
+					"text":"Write a program, to implement ( abstract data type ) List. Following are the operations:<br><b>subList(int, int) :</b>Returns a list containing elements, including startIndex and excluding endIndex. The first parameter indicates the startIndex and the second parameter indicates the endIndex.<br><b>equals(int[]) :</b>Returns a boolean indicating whether the parameter int[] exactly matches with the given list or not<br><b>clear() :</b>Removes all the elements from list<br><b>retainAll(int[]) :</b> Retains only the elements in this list that are contained in the specified element array.<br><b>contains(int):</b>returns true, if given element is in list.<br><b>indexOf(int) :</b>Returns the index of the first occurrence of the specified int in this list, or -1 if this list does not contain the int<br><b>removeAll() :</b>Removes from this list all of its elements that are contained in the specified int array.<br>Check your program against test cases below as a zip file. Submit your solution(zip file) when all test cases are passed"
+				},
+				{
+					"attachment" : ["Assignment-1.zip"]
+				}
+			],
+			"points":"10"
+		}		
+
+	]
+}]

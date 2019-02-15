@@ -1,0 +1,17 @@
+[
+	{
+		"title":"This activity teaches you on how to create string object and perform in build operations on strings objects.",
+		"activityType":"video",
+		"videoURL":"/Video on Strings-4.mp4",
+		"videoResources" : "/Video on Strings-4.zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the video on Strings-4"
+		}
+		]
+	}
+]

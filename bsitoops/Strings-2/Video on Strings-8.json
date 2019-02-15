@@ -1,0 +1,17 @@
+[
+	{
+		"title":"Looking forward in strings, This activity teaches you on what else we can do differently with strings operations.",
+		"activityType":"video",
+		"videoURL":"/Video on Strings-8.mp4",
+		"videoResources" : "/Video on Strings-8.zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the video on Strings-8"
+		}
+		]
+	}
+]

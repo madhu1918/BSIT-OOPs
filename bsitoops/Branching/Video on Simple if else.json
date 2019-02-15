@@ -1,0 +1,18 @@
+[
+	{
+		"title":"This activity teaches you on how to use if else statements when you want to make decisions in the program.",
+		"activityType":"video",
+		"videoURL":"/Video on Simple if else.mp4",
+		"videoResources" : "/Video on Simple if else.zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the video on Simple if else"
+		}
+		]
+	}
+]
+

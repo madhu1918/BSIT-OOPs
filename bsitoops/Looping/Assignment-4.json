@@ -1,0 +1,20 @@
+[{
+	"title":"This assignment tests you on how to use different loops to iterate the operations.",
+	"activityType":"assignment",
+	"questions":
+	[
+		{
+			"questionType": "filesubmission",
+			"questionText": [
+				{
+					"text":"Write a program to print the multiples of the given number n.<br>multiples(3) → [1, 3]<br>multiples(10) → [1, 2, 5, 10]<br>multiples(100) → [1, 2, 4, 5, 10, 20, 25, 50, 100]<br>"
+				},
+				{
+					"attachment" : ["Assignment-4.zip"]
+				}
+			],
+			"points":"10"
+		}
+	]
+}
+]

@@ -1,0 +1,20 @@
+[
+	{
+		"title":"In this activity,you will learn on how to set classpath for Java on you Computer/Laptop.",
+		"activityType":"video",
+		"videoURL":"/Video on Setting a Classpath.mp4",
+		"videoResources" : "/Video on Setting a Classpath.zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the video on Setting a Classpath"
+			}
+		
+		]
+	}
+]
+
+

@@ -1,0 +1,22 @@
+[{
+	"activityType":"assignment",
+	"title":"Implement getAvailableLetters function",
+	"questions":
+	[
+		{
+			"questionType":"filesubmission",
+			"questionText":
+			[
+				{
+					"text":"<b>Description:</b><br>Next, implement the function getAvailableLetters that takes in one parameter - a list of letters, lettersGuessed. This function returns a string that is comprised of lowercase English letters - all lowercase English letters that are not in lettersGuessed.<br><b>Example Usage:</b>"
+				},
+				{
+					"text" : "    <code>char[] lettersGuessed = {'e', 'i', 'k', 'p', 'r', 's'};<br>    System.out.println(getAvailableLetters(lettersGuessed));<br>    Abcdfghjlmnoqtuvwxyz</code>"
+				},
+				{
+					"text":"<b>Note</b><br>    -> Note that this function should return the letters in alphabetical order, as in the example above.<br>    -> For this function, you may assume that all the letters in lettersGuessed are lowercase."
+				}
+			]
+		}
+	]
+}]

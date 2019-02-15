@@ -1,0 +1,19 @@
+[
+	{
+		"title":"This activity helps you to learn how to use java variables and operators which help you convert a mathematical formula.",
+		"activityType":"video",
+		"videoURL":"/Video on Computing quotient and reminder for given two numbers.mp4",
+		"videoResources" : "/Video on Computing quotient and reminder for given two numbers.zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the video on Computing quotient and reminder for given two numbers"
+			}
+		
+		]
+	}
+]
+

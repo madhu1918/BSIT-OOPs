@@ -1,0 +1,18 @@
+[{
+	"title": "This assignment tests you, how can you print your name and roll number with help of java program which you have learnt in earlier activity.",
+	"activityType": "assignment",
+	"questions": [{
+			"questionType": "filesubmission",
+			"questionText": [
+				{
+					"text":"Write a java program to print your Name, Roll number.<br>Check your program against test cases below as a zip file. Submit your solution(zip file) when all test cases are passed"
+				},
+				{
+					"attachment" : ["Assignment-1.zip"]
+				}
+			],
+			"points":"5"
+		}		
+
+	]
+}]
