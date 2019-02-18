@@ -39,6 +39,7 @@
 				"Video on Setting a Classpath",
 				"Video on Running Hello World Program",
 				"Video on Checkstyle",
+				"Video on Javadoc comments"
 				"Assignment-1"
 			]
 		},
@@ -241,7 +242,9 @@
             ],
 			"activities":
 			[
-				"Video on Classes and Objects",
+				"Video on Classes and Objects-1",
+				"Video on Classes and Objects-2",
+				"Video on Classes and Objects-3",
 				"Assignment-1"
 			]
 		},
